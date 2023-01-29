@@ -11,7 +11,7 @@ class Papaz {
         this.type = "human",
         this.job = "developer",
         this.weight = "78",
-        this.age = "18",
+        this.age = "20",
         this.discord.tag = "Papaz#0671"
     };
 }
