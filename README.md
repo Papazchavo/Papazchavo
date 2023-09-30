@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1087351167253749860?hideDiscrim=true)](https://discord.com/users/1087351167253749860)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770067487097749534?hideDiscrim=true)](https://discord.com/users/770067487097749534)
 
 <h2>Ben Kimim</h2>
 
@@ -14,7 +14,7 @@ class Papaz {
         this.job = "developer",
         this.weight = "78",
         this.age = "21",
-        this.discord.tag = "Papaz#9999"
+        this.discord.tag = "Papazarmis"
     };
 }
 
