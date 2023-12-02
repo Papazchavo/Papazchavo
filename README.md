@@ -20,3 +20,6 @@ class Papaz {
 
 module.exports = Papaz
 ```
+
+## Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mirasaki&theme=github-dark&hide_border=true&background=DD272702" alt="Mirasaki Github Stats" /></p>
