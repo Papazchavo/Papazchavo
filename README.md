@@ -9,7 +9,7 @@ class Papaz {
     constructor(options) {
         this.name = "Baran",
         this.sex = "man",
-        this.length = "183",
+        this.length = "1.89",
         this.type = "human",
         this.job = "developer",
         this.weight = "78",
