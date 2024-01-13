@@ -22,4 +22,4 @@ module.exports = Papaz
 ```
 
 ## Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=mirasaki&theme=github-dark&hide_border=true&background=DD272702" alt="PapazChavo Github Stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Papazchavo&theme=github-dark&hide_border=true&background=DD272702" alt="PapazChavo Github Stats" /></p>
