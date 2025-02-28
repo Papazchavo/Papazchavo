@@ -1,9 +1,5 @@
-<h2 align="center">
- <a href="https://discord.com/users/770067487097749534"><img  width="400px" src="https://api.lanyard.rest/v1/users/770067487097749534?decoration=true&hideBadges=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Developing.."></a>
-<br> </br>
- </h2>
-<p align="center">
-  <br> </br>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770067487097749534?hideDiscrim=true)](https://discord.com/users/770067487097749534)
+
 
 <h2>Ben Kimim</h2>
 
